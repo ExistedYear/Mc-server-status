@@ -1,7 +1,7 @@
 # Mc-server-status
 Simple minecraft server status displayer which can moniter upto 1 server . This requires a discord bot
 INSTALLATION
-git clone https://github.com/Evolution-Development/MCSTATS.git
+git clone https://github.com/ExistedYear/Mc-server-status.git
 cd MCSTATS
 npm install
 EDIT config.yml
