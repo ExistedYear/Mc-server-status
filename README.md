@@ -12,3 +12,5 @@ TO START THE BOT
 
 First test for any errors using node index.js
 Then start MCSTATS using pm2 start index.js
+
+Credits to Hyricon development for the code.
